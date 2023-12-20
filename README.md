@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Optimistic Person<br>📚 Studying Electrical Engineering (2nd Year)<br>🎯 Trying to be the best version of myself<br>🎲 Hello World</p>
+<p align="left">✨ Optimistic Person<br>📚 Studying Electrical Engineering (2nd Year)<br>🎯 Trying to be the best version of myself<br>🎲 Namaste Duniya!!</p>
 
 ###
 
